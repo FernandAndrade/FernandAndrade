@@ -1,6 +1,6 @@
 ### :man_technologist: Olá, eu sou a Fernanda Andrade! Bem-vindo ao meu GitHub 👋 
 
-||Desenvolvedora Java Full Stack Jr||
+||Desenvolvedora Jr| Estagiária de Inovação| Em desenvolvimento na área de Produtos||
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fernandandrade-dev)](https://www.linkedin.com/in/fernandandrade-dev)
@@ -18,12 +18,12 @@
 #### Conhecimento nas tecnologias:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 
 #### Conhecimento nos Frameworks:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandAndrade&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=FernandaAndrade&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
